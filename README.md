@@ -1,1 +1,3 @@
-# ATM-machine
+# ATMExercise
+Simple React ATM
+<img src="./atm.png" />

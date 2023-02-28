@@ -3,4 +3,4 @@ This is a simple ATM machine code built using React program. The code allows use
 
 Clone this repo.
 cd into project directory.
-Run standalone.html on local server.
+Run atmcode.html on local server.
